@@ -1,4 +1,5 @@
 Future Prediction of ETFs Using Deep Learning with ANN Model
+
 In recent years, Exchange-Traded Funds (ETFs) have gained significant traction among investors due to their liquidity, diversification, and cost-effectiveness. As the financial market evolves, the need for accurate forecasting of ETF performance becomes increasingly critical. This study explores the future prediction of five selected ETFs using a Deep Learning approach, specifically an Artificial Neural Network (ANN) model.
 Methodology: The ANN model employed in this study consists of multiple layers, including an input layer, hidden layers, and an output layer. Historical price data, trading volume, economic indicators, and other relevant features are processed through the ANN to learn complex patterns and relationships that influence ETF price movements. The model's architecture is optimized through techniques such as dropout and batch normalization to enhance prediction accuracy and prevent overfitting.
 
